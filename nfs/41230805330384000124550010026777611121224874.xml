@@ -1,0 +1,183 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe Id="NFe41230805330384000124550010026777611121224874" versao="4.00">
+			<ide>
+				<cUF>41</cUF>
+				<cNF>12122487</cNF>
+				<natOp>VENDAS</natOp>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>2677761</nNF>
+				<dhEmi>2023-08-01T00:00:00-03:00</dhEmi>
+				<dhSaiEnt>2023-08-01T00:00:00-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>2</idDest>
+				<cMunFG>4106902</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>0</indPres>
+				<procEmi>0</procEmi>
+				<verProc>0.1.0</verProc>
+			</ide>
+			<emit>
+				<CNPJ>05330384000124</CNPJ>
+				<xNome>Econet Editora Empresarial Ltda</xNome>
+				<xFant>Econet Editora Empresarial Ltda</xFant>
+				<enderEmit>
+					<xLgr>Rua Gago Coutinho</xLgr>
+					<nro>541</nro>
+					<xBairro>BACACHERI</xBairro>
+					<cMun>4106902</cMun>
+					<xMun>CURITIBA</xMun>
+					<UF>PR</UF>
+					<CEP>82510230</CEP>
+					<cPais>1058</cPais>
+					<xPais>Brasil</xPais>
+					<fone>4130168006</fone>
+				</enderEmit>
+				<IE>9030903088</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CNPJ>54991211000162</CNPJ>
+				<xNome>UNIMED DE ASSIS COOPERATIVA DE TRABALHO MEDICO</xNome>
+				<enderDest>
+					<xLgr>R WALTER ANTONIO FONTANA 1997</xLgr>
+					<nro>0</nro>
+					<xBairro>VILA CLAUDIA</xBairro>
+					<cMun>3504008</cMun>
+					<xMun>ASSIS</xMun>
+					<UF>SP</UF>
+					<CEP>19815340</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>controladoria@unimed-assis.com.br</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>001</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>Boletim INFORMATIVO COMPLETO, Periodo de 08/2023</xProd>
+					<NCM>49029000</NCM>
+					<cBenef>PR800001</cBenef>
+					<CFOP>6107</CFOP>
+					<uCom>UNID</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>343.44</vUnCom>
+					<vProd>343.44</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>UNID</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>343.44</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>92.21</vTotTrib>
+					<ICMS>
+						<ICMS40>
+							<orig>0</orig>
+							<CST>41</CST>
+						</ICMS40>
+					</ICMS>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>343.44</vBC>
+							<pPIS>0.6500</pPIS>
+							<vPIS>2.23</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>343.44</vBC>
+							<pCOFINS>3.0000</pCOFINS>
+							<vCOFINS>10.30</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0</vBC>
+					<vICMS>0</vICMS>
+					<vICMSDeson>0</vICMSDeson>
+					<vFCP>0</vFCP>
+					<vBCST>0</vBCST>
+					<vST>0</vST>
+					<vFCPST>0</vFCPST>
+					<vFCPSTRet>0</vFCPSTRet>
+					<vProd>343.44</vProd>
+					<vFrete>0</vFrete>
+					<vSeg>0</vSeg>
+					<vDesc>0</vDesc>
+					<vII>0</vII>
+					<vIPI>0</vIPI>
+					<vIPIDevol>0</vIPIDevol>
+					<vPIS>2.23</vPIS>
+					<vCOFINS>10.30</vCOFINS>
+					<vOutro>0</vOutro>
+					<vNF>343.44</vNF>
+					<vTotTrib>92.21</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>9</modFrete>
+			</transp>
+			<pag>
+				<detPag>
+					<tPag>15</tPag>
+					<vPag>343.44</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infAdFisco>Nao Incidencia de ICMS-Art. 3o Inciso I, alinea B do Decreto 7871/2017 RICMS/PR \n Nao Incidencia de ICMS-Art. 7o Inciso XIIIdo RICMS/SP\nProduto abrangido pela Imunidade Tributaria conforme Acordao de Repercussao Geral DJe-195 do STF de 31/08/2017..</infAdFisco>
+				<infCpl>NFe ref. Parcela 43 com Venc. em 07/08/2023 \n \n Trib. aprox. R$: 26,96 Federal,  65,25 Estadual Fonte: IBPT/empresometro.com.br 75B7F2</infCpl>
+			</infAdic>
+			<infRespTec>
+				<CNPJ>07504505000132</CNPJ>
+				<xContato>Ricardo Acras</xContato>
+				<email>contato@focusnfe.com.br</email>
+				<fone>41991820810</fone>
+			</infRespTec>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe41230805330384000124550010026777611121224874">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>h8qI2E3NSC3ar2BwXe9fEUXOCpY=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>AwjtNE3EVMV+UPjOlQ/YICp+TGflRFCNDB19MUgO12tIufbykpVvu7ow/fhozyuA0hbNncn4H3N5XgAXROdb21KMn0xrqhbslGFMxzx/yR+Tsql2jqhwKsIPA90YofaxBH08ZHsqJx6GZuILSs1C9FJI7Q89bbQM7W8fPLGy9AA=</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>MIICOTCCAaKgAwIBAgIQUXn+h7UWga1DGzpPjVYJZDANBgkqhkiG9w0BAQUFADBbMVkwVwYDVQQDHlAAdwB3AHcALgBmAHMAaQBzAHQALgBjAG8AbQAuAGIAcgAgACgAUwBFAE0AIABWAEEATABJAEQAQQBEAEUAIABKAFUAUgDNAEQASQBDAEEAKTAeFw0yMDA4MTkwOTI3MDZaFw0yMzA4MTkwOTI3MDZaMFsxWTBXBgNVBAMeUAB3AHcAdwAuAGYAcwBpAHMAdAAuAGMAbwBtAC4AYgByACAAKABTAEUATQAgAFYAQQBMAEkARABBAEQARQAgAEoAVQBSAM0ARABJAEMAQQApMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVuzPKD5jupb87mp0A11qpowBTokuORSdopo6YbwvK9eyM0wi3P0qu1UuuVLSQTnHiKMdWEoEWvBmvMYKXpfvQWgAoyJb+IfI21edIrs/UjRxzaBsq8Ui/J9EAcACt60nAFmWMS3U/ZqIqxmv5VDyb+DE/DU9ZOlQ+KnWcE3o7vQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABV4U5v2ZnFKblaCRGWLZp/jaupbYpzHyYLSl7ur/7eLYH8vpK9JPKcnLekNvbrT224FuBfo1tRHV3vAH+lAWQKwsLNJByRHH4/5LmYVzIZCWLwWRUapANeouRYSGY7Ye9RuCK1T2I1RmrIBaG7uNFT+d9BXA/+bKcJ5hjYShOs8</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt Id="ID141230196727827">
+			<tpAmb>1</tpAmb>
+			<verAplic>PR-v4_8_20</verAplic>
+			<chNFe>41230805330384000124550010026777611121224874</chNFe>
+			<dhRecbto>2023-08-01T04:24:32-03:00</dhRecbto>
+			<nProt>141230196727827</nProt>
+			<digVal>h8qI2E3NSC3ar2BwXe9fEUXOCpY=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

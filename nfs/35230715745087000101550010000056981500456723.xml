@@ -1,0 +1,388 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe versao="4.00" Id="NFe35230715745087000101550010000056981500456723">
+			<ide>
+				<cUF>35</cUF>
+				<cNF>50045672</cNF>
+				<natOp>Venda de mercadoria adquirida ou recebida de terceiros, ou q</natOp>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>5698</nNF>
+				<dhEmi>2023-07-14T09:42:21-03:00</dhEmi>
+				<dhSaiEnt>2023-07-14T09:57:21-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>3529005</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>3</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>HIPER 7.1.3</verProc>
+			</ide>
+			<emit>
+				<CNPJ>15745087000101</CNPJ>
+				<xNome>J J MUSICAL DE MARILIA LTDA</xNome>
+				<xFant>ATMOSFERA MUSICAL</xFant>
+				<enderEmit>
+					<xLgr>Rua Sao Luiz</xLgr>
+					<nro>1214</nro>
+					<xCpl>de 902/903 ao fim</xCpl>
+					<xBairro>Centro</xBairro>
+					<cMun>3529005</cMun>
+					<xMun>MARILIA</xMun>
+					<UF>SP</UF>
+					<CEP>17500002</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>1433012103</fone>
+				</enderEmit>
+				<IE>438176146117</IE>
+				<CRT>1</CRT>
+			</emit>
+			<dest>
+				<CNPJ>54991211000162</CNPJ>
+				<xNome>UNIMED DE ASSIS COOPERATIVA DE TRABALHO MEDICO</xNome>
+				<enderDest>
+					<xLgr>R Walter Antonio Fontana</xLgr>
+					<nro>1997</nro>
+					<xBairro>Vila Claudia</xBairro>
+					<cMun>3504008</cMun>
+					<xMun>ASSIS</xMun>
+					<UF>SP</UF>
+					<CEP>19815340</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>1833023015</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>gerencia@unimed-assis.com.br</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>3940</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>CAIXA DATREL PASSIVA SL 10-200</xProd>
+					<NCM>85182200</NCM>
+					<CEST>0105700</CEST>
+					<indEscala>S</indEscala>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>559.0000000000</vUnCom>
+					<vProd>559.00</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>UN</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>559.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>207.17</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPITrib>
+							<CST>99</CST>
+							<qUnid>0.0000</qUnid>
+							<vUnid>0.0000</vUnid>
+							<vIPI>0.00</vIPI>
+						</IPITrib>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>4354</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>CABO MONTADO</xProd>
+					<NCM>85444200</NCM>
+					<CEST>1200700</CEST>
+					<indEscala>S</indEscala>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>2.0000</qCom>
+					<vUnCom>119.0000000000</vUnCom>
+					<vProd>238.00</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>UN</uTrib>
+					<qTrib>2.0000</qTrib>
+					<vUnTrib>119.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>70.35</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPITrib>
+							<CST>99</CST>
+							<qUnid>0.0000</qUnid>
+							<vUnid>0.0000</vUnid>
+							<vIPI>0.00</vIPI>
+						</IPITrib>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="3">
+				<prod>
+					<cProd>5900</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>CAIXA ATIVA DATREL- AT12.250</xProd>
+					<NCM>85182200</NCM>
+					<CEST>0105700</CEST>
+					<indEscala>S</indEscala>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>1299.0000000000</vUnCom>
+					<vProd>1299.00</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>UN</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>1299.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>481.41</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPITrib>
+							<CST>99</CST>
+							<qUnid>0.0000</qUnid>
+							<vUnid>0.0000</vUnid>
+							<vIPI>0.00</vIPI>
+						</IPITrib>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="4">
+				<prod>
+					<cProd>10325</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>Tripe PZ profissional caixas som SB300</xProd>
+					<NCM>92099900</NCM>
+					<CEST>2899900</CEST>
+					<indEscala>S</indEscala>
+					<CFOP>5102</CFOP>
+					<uCom>PC</uCom>
+					<qCom>2.0000</qCom>
+					<vUnCom>149.0000000000</vUnCom>
+					<vProd>298.00</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>PC</uTrib>
+					<qTrib>2.0000</qTrib>
+					<vUnTrib>149.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>93.72</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPINT>
+							<CST>53</CST>
+						</IPINT>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="5">
+				<prod>
+					<cProd>10559</cProd>
+					<cEAN>7898969530309</cEAN>
+					<xProd>MICROFONE DINAMICO SEM FIO, DX-380H DEVOX</xProd>
+					<NCM>85181090</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>499.0000000000</vUnCom>
+					<vProd>499.00</vProd>
+					<cEANTrib>7898969530309</cEANTrib>
+					<uTrib>UN</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>499.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>184.93</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPINT>
+							<CST>53</CST>
+						</IPINT>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCP>0.00</vFCP>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vFCPST>0.00</vFCPST>
+					<vFCPSTRet>0.00</vFCPSTRet>
+					<vProd>2893.00</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vIPIDevol>0.00</vIPIDevol>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>2893.00</vNF>
+					<vTotTrib>1037.58</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>9</modFrete>
+				<vol>
+					<qVol>1</qVol>
+				</vol>
+			</transp>
+			<cobr>
+				<fat>
+					<nFat>5698</nFat>
+					<vOrig>2893.00</vOrig>
+					<vDesc>0.00</vDesc>
+					<vLiq>2893.00</vLiq>
+				</fat>
+				<dup>
+					<nDup>001</nDup>
+					<dVenc>2023-07-31</dVenc>
+					<vDup>2893.00</vDup>
+				</dup>
+			</cobr>
+			<pag>
+				<detPag>
+					<tPag>05</tPag>
+					<vPag>2893.00</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infCpl>NSU: 5698 14-07-2023 09:42:22 - Voce pagou aproximadamente: R$ 528,03 de tributos federais, R$ 509,55 de tributos estaduais e R$ 1.855,42 pelos produtos. Fonte: IBPT/empresometro.com.br Chave: 2C01C1 - DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL  - NAO GERA DIREITO A CREDITO FISCAL DE IPI, ISS E ICMS  - Pedido #L35061 - PEDIDO DE COMPRA 6328</infCpl>
+			</infAdic>
+			<infRespTec>
+				<CNPJ>12605982000124</CNPJ>
+				<xContato>Hiper Software</xContato>
+				<email>produto@hiper.com.br</email>
+				<fone>4733082250</fone>
+			</infRespTec>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe35230715745087000101550010000056981500456723">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>5nbhvuwnnvAKNXhuVc5jgggqd0g=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>ise83c+yjf7MgAfVvSWPLpbyx9rCIYS5m2O+H7o1ijwYMmAkABqakPtPvOUBmwoKVmN7orV86TXfY7vU5ldjCPa7R5Kzbnc8y7o9q8Z0Fe0YnAh98VC/M+bLi2FweNtI++jyPsrXiZBNaK4W0r7u4GoFaNMspZs/uekCMnrp++8=</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>MIICOTCCAaKgAwIBAgIQUXn+h7UWga1DGzpPjVYJZDANBgkqhkiG9w0BAQUFADBbMVkwVwYDVQQDHlAAdwB3AHcALgBmAHMAaQBzAHQALgBjAG8AbQAuAGIAcgAgACgAUwBFAE0AIABWAEEATABJAEQAQQBEAEUAIABKAFUAUgDNAEQASQBDAEEAKTAeFw0yMDA4MTkwOTI3MDZaFw0yMzA4MTkwOTI3MDZaMFsxWTBXBgNVBAMeUAB3AHcAdwAuAGYAcwBpAHMAdAAuAGMAbwBtAC4AYgByACAAKABTAEUATQAgAFYAQQBMAEkARABBAEQARQAgAEoAVQBSAM0ARABJAEMAQQApMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVuzPKD5jupb87mp0A11qpowBTokuORSdopo6YbwvK9eyM0wi3P0qu1UuuVLSQTnHiKMdWEoEWvBmvMYKXpfvQWgAoyJb+IfI21edIrs/UjRxzaBsq8Ui/J9EAcACt60nAFmWMS3U/ZqIqxmv5VDyb+DE/DU9ZOlQ+KnWcE3o7vQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABV4U5v2ZnFKblaCRGWLZp/jaupbYpzHyYLSl7ur/7eLYH8vpK9JPKcnLekNvbrT224FuBfo1tRHV3vAH+lAWQKwsLNJByRHH4/5LmYVzIZCWLwWRUapANeouRYSGY7Ye9RuCK1T2I1RmrIBaG7uNFT+d9BXA/+bKcJ5hjYShOs8</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt Id="Id135231126229111">
+			<tpAmb>1</tpAmb>
+			<verAplic>SP_NFE_PL009_V4</verAplic>
+			<chNFe>35230715745087000101550010000056981500456723</chNFe>
+			<dhRecbto>2023-07-14T09:42:58-03:00</dhRecbto>
+			<nProt>135231126229111</nProt>
+			<digVal>5nbhvuwnnvAKNXhuVc5jgggqd0g=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
